@@ -20,15 +20,15 @@ Lab 2 实践基本功能
 
 * 创建新的bucket
 
-	* `.\mc.exe mb mymnio/newbucket
+	* ` .\mc.exe mb mymnio/newbucket
 
 * 查看bucket
 
-	* `.\mc.exe ls myminio
+	* ` .\mc.exe ls myminio
 
 * 删除指定bucket
 
-	* `.\mc.exe rb myminio/newbucket
+	* ` .\mc.exe rb myminio/newbucket
 
 # 实验小结
 	
