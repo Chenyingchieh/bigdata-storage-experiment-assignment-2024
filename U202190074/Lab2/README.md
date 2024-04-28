@@ -18,17 +18,17 @@ Lab 2 实践基本功能
 
 可以在界面create a bucket，也可以重新打开一个命令行通过客户端访问服务器再进行bucket的添加删除查看。注意原本运行服务器minio.exe的命令行窗口不可以关掉。
 
-* 创建新的bucket
+创建新的bucket
 
-	* ` .\mc.exe mb mymnio/newbucket
+	.\mc.exe mb mymnio/newbucket
 
-* 查看bucket
+查看bucket
 
-	* ` .\mc.exe ls myminio
+	.\mc.exe ls myminio
 
-* 删除指定bucket
+删除指定bucket
 
-	* ` .\mc.exe rb myminio/newbucket
+	.\mc.exe rb myminio/newbucket
 
 # 实验小结
 	
